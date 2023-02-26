@@ -1,6 +1,9 @@
 Hi there 👋 I am Aravind Baskaran 
 🎃 I'm currently looking for Data Analyst opportunities in the UK.
 Building my problem-solving, communication and interview skills through:
+
+
+
 •	🌱 I’m currently learning Azure DP-203 Certification through Microsoft 
 •	💃 I'm a recent self taught data nerd with strong analytical thinking.
 •	👯 I’m looking to collaborate on Machine Learning & Data Analysis projects.
@@ -9,6 +12,11 @@ Building my problem-solving, communication and interview skills through:
 •	📫 How to reach me: aravindtheanalyst@gmail.com
 •	😄 Pronouns: He/Him
 •	⚡ Fun fact: I love to sing aloud while driving.
+
+
+
+
+
 🤝 Connect with me:
 Linkedin : 
  
