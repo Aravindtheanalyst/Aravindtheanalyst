@@ -1,4 +1,4 @@
-Hi there 👋 I am Aravind Baskaran 
+Hi there 👋 I am Aravind Baskaran - A Self taught aspiring Data Analyst
 🎃 I'm currently looking for Data Analyst opportunities in the UK.
 Building my problem-solving, communication and interview skills through:
 
@@ -18,7 +18,9 @@ Building my problem-solving, communication and interview skills through:
 
 
 🤝 Connect with me:
-Linkedin : 
+Linkedin : `https://www.linkedin.com/in/aravindtheanalyst/`
+
+
  
  Certifications
  	
