@@ -23,8 +23,14 @@ Linkedin :
  Certifications
  	
 ●	Google Data Analytics Certified   - Coursera                             September 2022
+
+
 ●	SQL for Data Science  - Coursera                                         September 2022
+
+
 ●	Excel Basics for Data Analysis - Coursera	                               October 2022
+
+
 ●	Data Visualization with Tableau Specialization - Coursera                February 2023
 
 
